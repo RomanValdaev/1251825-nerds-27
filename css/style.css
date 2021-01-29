@@ -1,0 +1,26 @@
+
+:root {
+    --basic-black: #000000;
+    --basic-grey: #363636;
+    --Light-light-gray:#eeeeee;
+    --red-for-button:#FB565A;
+    --green-for-button1:#00CA74;
+    --yellou-for-button1:#EFC849;
+    --gray-for-icons:#E1E1E1;
+    --black-for-footer:#444444;
+    --gray-for-smallstudio:#283136;
+    --gray-for-me:#666666;
+       
+        
+}
+
+
+
+nerds-logo {
+    position: absolute;
+    width: 159.87px;
+    height: 65.02px;
+    left: 140px;
+    top: 48.98px;
+}
+
